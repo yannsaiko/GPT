@@ -1,0 +1,7 @@
+# モデルファイルや巨大データを除外
+models/*.gguf
+models/
+
+# Pythonの仮想環境を除外
+venv/
+__pycache__/
